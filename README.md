@@ -4,7 +4,7 @@
 Lydia Delgado Uriarte
 
 ## Overview
-Using APIS from Google Map Platform, identifying potential travel destinations and nearby hotels from the weather preferences of a customer. From the data retrieving file create a travel itinerary that shows the route between four near cities and the markers with information about the Hotel Name, City, Counutry and Maximum Temperature.
+Using APIS from Google Map Platform, identify potential travel destinations and nearby hotels from the weather preferences of a customer. From the previous hotel data stored in a file create a travel itinerary that shows the route between four near cities and the markers displaying a message with data containing the Hotel Name, City, Country and Maximum Temperature.
 
 ## Results
 ### Total Hotels
