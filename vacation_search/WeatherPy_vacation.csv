@@ -1,0 +1,71 @@
+City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
+2,Berezovyy,RU,16.83,51.6667,135.7,"Hotel ""Phoenix"""
+21,Bethel,US,25.05,41.3712,-73.414,Courtyard by Marriott Danbury
+34,Asau,RO,26.96,46.4333,26.4,Casa Mika Ciobanus
+36,Makat,KZ,22.26,47.6469,53.3463,Umit
+41,Tasiilaq,GL,22.69,65.6145,-37.6368,The Red House
+46,Albany,US,18.19,42.6001,-73.9662,
+65,Gornyak,RU,21.96,50.9942,81.4661,"Комфорт ""Danilo"""
+72,Palmer,US,25.25,42.1584,-72.3287,Wedgewood Motel
+88,Whitehorse,CA,21.97,60.7161,-135.0538,The Sternwheeler Hotel & Conference Centre
+100,Yinchuan,CN,27.7,38.4681,106.2731,JJ Inns - Yinchuan New Moon Square Branch
+113,Lasa,IT,25.02,46.6166,10.7002,Pension Feldgärtenhof
+132,Severo-Kurilsk,RU,26.46,50.6789,156.125,Kak Doma
+151,Torbay,CA,29.57,47.6666,-52.7314,Gallows Cove
+164,Vardo,NO,17.8,70.3705,31.1107,Vardø Hotel AS
+174,Dzerzhinsk,RU,26.42,56.2389,43.4631,Hotel Druzhba
+206,Akdepe,TM,28.4,42.0551,59.3788,
+215,Kushmurun,KZ,16.88,52.4503,64.6311,Gostinitsa Pri Depo
+227,Havoysund,NO,29.28,70.9963,24.6622,Arctic View Glamping & Restaurant
+230,Onguday,RU,17.19,50.75,86.15,Barskaya Usad'ba
+242,Novichikha,RU,22.87,52.204,81.3877,
+244,Husavik,IS,17.47,66.0449,-17.3389,Bjarnabúð
+261,Krizevci,HR,29.8,46.0219,16.5425,Koristan Kod d.o.o.
+265,Halifax,CA,22.48,44.6453,-63.5724,Hotel Halifax
+266,Sorland,NO,28.47,67.667,12.6934,Sjybrygga fiskecamp
+273,Lyuban,BY,26.17,52.7985,28.0048,"Gostinitsa ""Oressa"""
+279,Ostrovnoy,RU,20.75,68.0531,39.5131,
+292,Slave Lake,CA,20.39,55.2834,-114.769,Super 8 by Wyndham Slave Lake AB
+312,Drayton Valley,CA,27.91,53.2168,-114.9854,Service Plus Inns & Suites (Drayton Valley Hotel)
+322,Xinzhou,CN,25.92,38.4092,112.7333,Shell Hotel - Xinzhou
+327,Grindavik,IS,28.87,63.8424,-22.4338,Northern Light Inn & Max's Restaurant
+348,Persianovskiy,RU,19.92,47.5137,40.1075,Otel' Dinastiya
+350,Linxi,CN,25.74,39.7,118.4333,Peace Hotel
+355,Westport,US,26.74,41.1415,-73.3579,The Westport Inn
+356,Zhuanghe,CN,26.64,39.7008,122.9911,Hanting Express Dalian Zhuanghe Qiansheng
+359,Verkhnechusovskiye Gorodki,RU,15.55,58.1671,57.1086,
+368,Berea,US,16.07,41.3662,-81.8543,Comfort Inn Cleveland Airport
+374,Stolin,BY,29.68,51.8912,26.846,Stolinskiy Khlebozavod
+386,Ust-Koksa,RU,16.52,50.2696,85.6108,Uymonskaya Dolina
+389,Shihezi,CN,17.96,44.3,86.0333,Home Inn Shihezi Dongwu Road Century Square
+400,Nanortalik,GL,18.12,60.1432,-45.2371,Hotel Kap Farvel
+419,Mehamn,NO,23.18,71.0357,27.8492,Mehamn Arctic Hotel AS
+420,Lingyuan,CN,16.02,41.24,119.4011,Guomao Hotel
+426,Derzhavinsk,KZ,19.99,51.1,66.3167,Ooo.khim Baza
+428,Hofn,IS,22.62,64.2539,-15.2082,Hótel Höfn
+431,Khasan,RU,21.51,42.4308,130.6434,
+445,Varnavino,RU,22.12,57.4035,45.0916,Sibles PG Inn
+447,Krasnyy Yar,RU,24.73,46.5331,48.3456,Cottege near Ufa
+455,Severnyy,RU,21.24,50.677,36.5532,Full House North Mini-Hotel
+473,Shitanjing,CN,24.03,39.2342,106.3439,
+495,Solginskiy,RU,26.58,61.05,41.3428,
+514,Pabrade,LT,27.03,55.0,25.7833,Pavovere 2
+516,Linxia,CN,28.35,35.6003,103.2064,GreenTree Inn Linxia Autonomous Prefecture Linxia Oxford River Avenue Express Hotel
+526,Beisfjord,NO,28.96,68.3751,17.5988,
+550,Athabasca,CA,17.42,54.7169,-113.2854,Athabasca Lodge Motel
+562,Vinstra,NO,24.98,61.5952,9.7523,Sødorp Gjestgivergård AS
+566,Vostok,RU,17.92,46.4856,135.8833,
+570,Dalvik,IS,15.73,65.9702,-18.5286,Dalvík HI Hostel
+575,Argayash,RU,17.29,55.4888,60.8767,
+576,Atbasar,KZ,17.56,51.8,68.3333,Гостиничный Комплекс Saad
+597,Berlevag,NO,17.6,70.8578,29.0864,Kvitbrakka
+621,Creston,US,18.72,41.0586,-94.3614,Supertel Inn & Conference Center
+631,Gravdal,NO,28.29,68.1214,13.5031,Skreda Rorbusuiter
+632,Hakkari,TR,19.51,37.5833,44.1667,Koprucek Koyu Muhtarligi
+645,Bogashevo,RU,24.98,56.3683,85.1447,Отель Skyline Томск аэропорт
+649,Finnsnes,NO,26.56,69.2296,17.9811,Finnsnes Hotel - A SNR Hotel
+653,Podosinovets,RU,15.64,60.2776,47.0659,
+680,Zhanaozen,KZ,27.93,43.3,52.8,K.korabay 28A
+687,Arkhangelsk,RU,19.51,64.5401,40.5433,DVINA HOTEL
+701,Nanpiao,CN,18.14,41.0982,120.7479,Xinxing Hotel
+705,Listvyagi,RU,19.33,53.6772,86.951,Hotel Yeti House
